@@ -1,0 +1,10 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedChecker\bin\Release\GuildedChecker.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedChecker\bin\Release\GuildedChecker.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedChecker\bin\Release\Guna.UI.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedChecker\bin\Release\MetroSuite 2.0.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedChecker\obj\Release\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedChecker\obj\Release\GuildedChecker.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedChecker\obj\Release\GuildedChecker.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedChecker\obj\Release\GuildedChecker.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedChecker\obj\Release\GuildedChecker.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedChecker\obj\Release\GuildedChecker.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e55e091a-a5b1-49ef-828b-4a330803485f": {
+      "ProjectGuid": "e55e091a-a5b1-49ef-828b-4a330803485f",
+      "DisplayName": "GuildedChecker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
